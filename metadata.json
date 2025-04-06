@@ -1,0 +1,9 @@
+{
+  "name": "Contact Form 7 Interaction Listener",
+  "description": "Listens to activity in Contact Form 7 forms and pushes events to the data layer.",
+  "icon": "icon.svg",
+  "version": "1.0",
+  "categories": ["Analytics"],
+  "template_type": "TAG",
+  "permissions": ["inject_script", "read_dom"]
+}

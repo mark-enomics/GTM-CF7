@@ -1,6 +1,3 @@
-# GTM-CF7
-Custom GTM Event Tag to listen to all form fields inside Contact Form 7 forms.  When a user interacts (e.g. focuses or types), the tag will send an event to the GTM data layer.
-
 # GTM Contact Form 7 Interaction Tag
 
 A Google Tag Manager custom tag template to listen for user interactions on Contact Form 7 form fields (focus, change, input) and push relevant events to the data layer.
@@ -21,4 +18,3 @@ A Google Tag Manager custom tag template to listen for user interactions on Cont
 ## License
 
 MIT
-
